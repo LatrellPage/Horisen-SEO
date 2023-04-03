@@ -12,7 +12,8 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #000;
+
 }
 
 .header h1 {
@@ -52,7 +53,7 @@ p {
 
 .hero {
     height: 700px;
-    width: 1600px;
+    width: 1525px;
     margin-bottom: 25px;
     background-size: cover;
     background-position: top;
@@ -139,7 +140,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #000;
 }
 
 .online-reputation-management {
@@ -148,7 +149,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #000;
 }
 
 .social-media-marketing {
@@ -157,7 +158,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #000;
 }
 
 .search-engine-optimization img {
@@ -196,4 +197,37 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.outlined-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-shadow:
+      -1px -1px 0 #000, 1px -1px 0 #000,
+      -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.large {font-size: 24px;
+    color: #ffffff;
+}
+
+.header-button {
+    font-weight: bold;
+    font-size: 22px;
+    color:#000; 
+    text-shadow:-4px 4px 0 #d9dcd6, 4px -4px 0 #d9dcd6
+    -4px 4px 0 #d9dcd6, 4px -4px 0 #d9dcd6;
+}
+
+    
+.medium {
+    font-size:18px;
+}
+
+
+.sidetitle {
+    font-weight:bold;
+    font-size:28px;
+    color: #000;
 }
