@@ -16,7 +16,7 @@ The following features were added to the website to improve accessibility:
 
 Installation
 To view the updated Horiseon Social Solution Services website, simply navigate to the website's URL below. No additional installation is required.
-https://anferneepage.github.io/FirstWeekChallenge/
+https://latrellpage.github.io/Horisen-SEO/
 
 Usage
 
